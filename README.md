@@ -1,4 +1,4 @@
-# Find photos for movie folders
+# Find Image for movie folders
 
 + This code uses web scraping from Wikipedia to find the photos of each movie folder.
 
